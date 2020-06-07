@@ -1,4 +1,4 @@
-                                    <h1>Profile_page</h1>
+<h1>Profile_page</h1>
 <h3>NAME: NAVDEEP SINGH</h3>
 <h3>GROUP NO.:1</h3>
 
